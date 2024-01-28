@@ -1,0 +1,16 @@
+.wrapper2{
+position: static;
+
+flex-shrink: 0;
+border: 1px solid #000;
+background: url(../../assets/headerf.png), lightgray no-repeat;
+background-size: 100.00%;
+background-repeat: no-repeat;
+color: #ffffff;
+font-family: Montserrat;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 130px;
+}
